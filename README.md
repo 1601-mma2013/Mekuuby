@@ -1,5 +1,3 @@
-# Mekuuby
-
 **Smart Measurement Tape**
 
 **I. Analysis**
@@ -34,13 +32,15 @@ From this what are we trying toimprove is the durability of the product for user
 
 ![img](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)
 
+http://imgur.com/a/txKrF
+
  
 
  
 
 3.    relevanttechnologies
 
- 
+
 
 ·        ETape16 Digital Tape Measure
 
@@ -77,7 +77,7 @@ Understand productvision and constraints 1. product{project} vision
 
 9. Users
 
- 
+
 
 **d. Userobservations**
 
@@ -93,9 +93,9 @@ Understand userneeds and behaviour and describe it. Find various aspect of audie
 
 4. (user’s) aptitudes : 
 
- 
 
- 
+
+
 
 1. - user’s ability : to learn      something quickly and do it well
 
@@ -107,7 +107,7 @@ Understand userneeds and behaviour and describe it. Find various aspect of audie
 
 5. (user’s) challenges : 
 
- 
+
 
 **2. Modeling**
 
@@ -203,6 +203,10 @@ Design overallstructure of user experience
 
 ![img](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image003.jpg)
 
+http://imgur.com/a/XBos4
+
+http://imgur.com/a/XBos4
+
 ![img](file:///C:\Users\User\AppData\Local\Temp\msohtmlclip1\01\clip_image005.png)
 
  
@@ -213,17 +217,17 @@ Design overallstructure of user experience
       2. Territories of each       functional & design elements
       3. Arrangements of containers       & components
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 1. Key path Scenario
 
