@@ -1,4 +1,8 @@
 **Smart Measurement Tape**
+**•Rabiatul Nahdirah Binti Rizuan (1132702898)**
+**•Mekulilo Ndeshipanda Kakonya (1132700837)**
+
+
 
 **I. Analysis**
 
